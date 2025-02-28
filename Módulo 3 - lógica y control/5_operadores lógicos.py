@@ -71,18 +71,16 @@ print("not numero1:", "\t" * 3, not numero1)    #Comparación del númdero compl
 
 print("~numero1:", "\t" * 4, format(~numero1, '#032b'))
 
-# flag_register = 8
 
+# flag_register = 8
 # print(format(flag_register, '#032b'))
 
 # # ## Comprobar el estado del bit
 
 # the_mask = 8 # el peso del bit es igual a 2 elevado a 3 (8) - tercer bit
-
 # print(format(the_mask, '#032b'))
 
 # # verificar si el tercer bit está en 0 o 1
-
 # if flag_register & the_mask:
 #     # Mi bit se estableció en 1.
 #     print("tercer bit igual a 1")
@@ -91,7 +89,6 @@ print("~numero1:", "\t" * 4, format(~numero1, '#032b'))
 #     print("tercer bit igual a 0")
 
 # # Reiniciar el bit a 0
-
 # flag_register = flag_register & ~the_mask
 # # flag_register &= ~the_mask # alternativa
 
@@ -99,7 +96,6 @@ print("~numero1:", "\t" * 4, format(~numero1, '#032b'))
 # print(format(flag_register, '#032b'))
 
 # # verificar si el tercer bit está en 0 o 1
-
 # if flag_register & the_mask:
 #     # Mi bit se estableció en 1.
 #     print("tercer bit igual a 1")
@@ -108,7 +104,6 @@ print("~numero1:", "\t" * 4, format(~numero1, '#032b'))
 #     print("tercer bit igual a 0")
 
 # # establecer el tercer bit a 1
-
 # flag_register = flag_register | the_mask
 # flag_register |= the_mask
 
@@ -116,7 +111,6 @@ print("~numero1:", "\t" * 4, format(~numero1, '#032b'))
 # print(format(flag_register, '#032b'))
 
 # # Negación del tercer bit
-
 # flag_register = flag_register ^ the_mask
 # # # flag_register ^= the_mask # CUIDADO!!!, si ejecuto ambas instrucciones niega el bit dos veces!!!!
 
