@@ -15,7 +15,7 @@
 #     print("Dentro del bucle.", i)
 # print("Fuera del bucle.")
 
-###########################---LAB 3.2.1.9---##################################
+###########################---Ejercicio 1---##################################
 # secret_word = "chupacabra"
 # while True:
 #   word = input ("Introduce una palabra: ")
@@ -23,7 +23,7 @@
 #       break
 # print("Has dejado el bucle con éxito")
 
-###########################---LAB 3.2.1.10---##################################
+###########################---Ejercicio 2---##################################
 # user_word = input("Inserta una palabra: ")
 # user_word = user_word.upper()
 
@@ -32,7 +32,7 @@
 #         continue
 #     print (letter)
 
-###########################---LAB 3.2.1.11---##################################
+###########################---Ejercicio 3---##################################
 # word_without_vowels = ""
 
 # user_word = input("Inserta una palabra: ")
@@ -45,7 +45,7 @@
 
 # print (word_without_vowels)
 
-###########################---LAB 3.2.1.14---##################################
+###########################---Ejercicio 4---##################################
 # blocks = int(input("Ingresa el número de bloques: "))
 # height = 0
 # total_blocks = 0
@@ -58,7 +58,7 @@
 
 # print("La altura de la pirámide:", height)
 
-###########################---LAB 3.2.1.15---##################################
+###########################---Ejercicio 5---##################################
 # c0 = int(input("Introduce un número: "))
 # pasos = 0
 
@@ -72,19 +72,19 @@
 # print("pasos = ",pasos)
 
 
-#Ejercicio 1
+# Ejercicio 5.1
 # for i in range(1, 11):
 #     if i % 2:
 #         print (i)
 
-#Ejercicio 2
+# Ejercicio 5.2
 # x = 1
 # while x < 11:
 #     if x % 2:
 #         print (x)
 #     x += 1
 
-#Ejercicio 3
+# Ejercicio 5.3
 # word = ""
 # for ch in "john.smith@pythoninstitute.org":
 #     if ch == "@":
@@ -93,11 +93,11 @@
 #         word += ch
 # print(word)
 
-#Ejercicio 4
-word = ""
-for digit in "0165031806510":
-    if digit == "0":
-        word += "x"
-    else:
-        word += digit
-print(word)
+# Ejercicio 5.4
+# word = ""
+# for digit in "0165031806510":
+#     if digit == "0":
+#         word += "x"
+#     else:
+#         word += digit
+# print(word)
