@@ -40,7 +40,7 @@
 # resultado = "numero positivo" if numero > 0 else "numero negativo o cero"
 # print(resultado)
 
-############################---LAB 3.1.1.10---####################################
+############################---Ejercicio 1---####################################
 # planta = input ("Introduce una planta:")
 
 # if planta == "ESPATIFILO":
@@ -50,7 +50,7 @@
 # else:
 #     print("¡ESPATIFILIO!, ¡No ", planta, "!", sep ="")
 
-############################---LAB 3.1.1.11---####################################
+############################---Ejercicio 2---####################################
 # income = float(input("Introduce el ingreso anual:"))
 
 # if income < 85528:
@@ -61,22 +61,22 @@
 # tax = max(round(tax, 0), 0)
 # print("El impuesto es:", tax, "pesos")
 
-############################---LAB 3.1.1.12---####################################
-year = int(input("Introduce un año:"))
+# ############################---Ejercicio 3---####################################
+# year = int(input("Introduce un año:"))
 
-if year > 1581:
-    if year % 4:            # year % 4 != 0 --- Todo lo que sea distinto de 0, para Python es 1
-        bisiesto = False
-    elif year % 100:        # year % 100 != 0
-        bisiesto = True
-    elif year % 400:        # year % 400 != 0
-        bisiesto = False
-    else:
-        bisiesto = True
+# if year > 1581:
+#     if year % 4:            # year % 4 != 0 --- Todo lo que sea distinto de 0, para Python es 1
+#         bisiesto = False
+#     elif year % 100:        # year % 100 != 0
+#         bisiesto = True
+#     elif year % 400:        # year % 400 != 0
+#         bisiesto = False
+#     else:
+#         bisiesto = True
     
-    if bisiesto:
-        print("Ano Bisiesto")
-    else:
-        print("Año común")
-else:
-    print("No dentro del período del calendario Gregoriano")
+#     if bisiesto:
+#         print("Ano Bisiesto")
+#     else:
+#         print("Año común")
+# else:
+#     print("No dentro del período del calendario Gregoriano")
