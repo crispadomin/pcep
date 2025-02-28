@@ -14,11 +14,11 @@
 # for i in range(2, 8, 3):                        #range (valor inicial, valor final, incremento)
 #     print("El valor de i es actualmente", i)
 
-###########################---LAB 3.2.1.6---##################################
-import time
+###########################---Ejercicio 1---##################################
+# import time
 
-for seconds in range (1, 6):
-    print(seconds, "Mississippi")
-    time.sleep(1)
+# for seconds in range (1, 6):
+#     print(seconds, "Mississippi")
+#     time.sleep(1)
     
-print("¡Listos o no, ahí voy!")
+# print("¡Listos o no, ahí voy!")
