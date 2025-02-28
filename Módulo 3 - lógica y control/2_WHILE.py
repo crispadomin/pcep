@@ -45,23 +45,22 @@
 # print("Cuenta de números pares:", even_numbers)
 
 #######################----------------------##########################
-import random
-secret_number = random.randint(1,10)
+# import random
+# secret_number = random.randint(1,10)
 
+# print(
+# """
+# +==================================+
+# | ¡Bienvenido a mi juego, muggle!  |
+# | Introduce un número entero       |
+# | del 1 al 10                      |
+# | y adivina qué número he          |
+# | elegido para ti.                 |
+# | Entonces,                        |
+# | ¿Cuál es el número secreto?      |
+# +==================================+
+# """)
 
-print(
-"""
-+==================================+
-| ¡Bienvenido a mi juego, muggle!  |
-| Introduce un número entero       |
-| del 1 al 10                      |
-| y adivina qué número he          |
-| elegido para ti.                 |
-| Entonces,                        |
-| ¿Cuál es el número secreto?      |
-+==================================+
-""")
-
-while int(input ()) != secret_number:
-    print ("¡Ja, ja!, ¡Estás atrapado en mi bucle!\n¡Inténtalo de nuevo!")
-print("¡Bien hecho, muggle! Eres libre ahora")
+# while int(input ()) != secret_number:
+#     print ("¡Ja, ja!, ¡Estás atrapado en mi bucle!\n¡Inténtalo de nuevo!")
+# print("¡Bien hecho, muggle! Eres libre ahora")
