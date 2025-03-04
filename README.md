@@ -1,6 +1,6 @@
 # 🖥️ PCEP - Python Certified Entry-Level Programmer - Ejercicios
 
-
+![Python PCAP Certification](pcep-30-01-badge.png)
 🔗 [Ver mi insignia en Credly](https://www.credly.com/badges/b6c0751a-adc1-414a-91a9-9e9f4b206530/public_url)
 
 ## 📌 Descripción
