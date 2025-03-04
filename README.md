@@ -1,12 +1,13 @@
-# PCEP - Python Certified Entry-Level Programmer - Ejercicios
+# 🖥️ PCEP - Python Certified Entry-Level Programmer - Ejercicios
 
-Este repositorio contiene ejercicios y material de estudio para la certificación **PCEP (Python Certified Entry-Level Programmer)**.
-
-![Mi Insignia](pcep-30-01-BADGE.png)
-
+![Python PCAP Certification](pcep-30-01-badge.png)
 🔗 [Ver mi insignia en Credly](https://www.credly.com/badges/b6c0751a-adc1-414a-91a9-9e9f4b206530/public_url)
 
-## 📌 Contenido
+## 📌 Descripción
+Este repositorio contiene ejercicios y material de estudio para la certificación **PCEP (Python Certified Entry-Level Programmer)**.
+
+
+## 📂 Contenido
 
 El repositorio está organizado en las siguientes carpetas:
 
@@ -19,6 +20,11 @@ El repositorio está organizado en las siguientes carpetas:
 Para ejecutar los ejercicios, necesitas tener instalado:
 - **Python 3.12** → [Descargar Python](https://www.python.org/downloads/)
 - Un editor de código como **VS Code**, **PyCharm** o simplemente usar la terminal.
+
+  ## 🛠️ Tecnologías utilizadas
+- **Python** 🐍
+- **Visual Studio Code** 💻
+- **Google Colab** ☁️
 
 ## ▶️ Cómo usar este repositorio
 
@@ -43,6 +49,5 @@ Si deseas contribuir con ejercicios adicionales o mejoras, puedes hacer un **for
 - [Documentación oficial de Python](https://docs.python.org/3/)
 - [Ejercicios de certificación PCEP](https://pythoninstitute.org/)
 
----
-
-🔹 *Mantente aprendiendo y practicando Python!* 🐍
+## 📬 Contacto
+Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme! 😊
