@@ -1,6 +1,7 @@
 # PCEP - Python Certified Entry-Level Programmer - Ejercicios
 
 Este repositorio contiene ejercicios y material de estudio para la certificación **PCEP (Python Certified Entry-Level Programmer)**.
+
 ![Mi Insignia](pcep-30-01-BADGE.png)
 
 🔗 [Ver mi insignia en Credly](https://www.credly.com/badges/b6c0751a-adc1-414a-91a9-9e9f4b206530/public_url)
