@@ -21,7 +21,8 @@ Para ejecutar los ejercicios, necesitas tener instalado:
 - **Python 3.12** → [Descargar Python](https://www.python.org/downloads/)
 - Un editor de código como **VS Code**, **PyCharm** o simplemente usar la terminal.
 
-  ## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
+
 - **Python** 🐍
 - **Visual Studio Code** 💻
 - **Google Colab** ☁️
